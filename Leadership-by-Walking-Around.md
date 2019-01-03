@@ -16,5 +16,5 @@ How was your vacation/holiday/etc?
 
 # References
 
-[https://3x5leadership.com/2018/08/09/my-new-favorite-question/]
+https://3x5leadership.com/2018/08/09/my-new-favorite-question/
 
