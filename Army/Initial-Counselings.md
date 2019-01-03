@@ -1,9 +1,4 @@
-# Thoughts
-
-# Process
-
-
-# Template
+This is based on a template I produced and have used with relative success.
 
 ## Key Points of Discussion
 
