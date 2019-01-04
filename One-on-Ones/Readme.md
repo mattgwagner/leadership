@@ -1,6 +1,8 @@
 
 https://veryhappythings.github.io/101-questions/
 
+https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/
+
 
 How Successful Managers Run Effective One on One Meetings - Toggl Blog
 
