@@ -1,5 +1,6 @@
-People don't quit organizations/teams. They quit managers.
 
+
+People don't quit organizations/teams. They quit managers.
 
 # Other References
 
