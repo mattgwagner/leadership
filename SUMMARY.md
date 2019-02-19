@@ -30,6 +30,7 @@
   * [Readme](onboarding/onboarding.md)
 * [What-is-Leadership](what-is-leadership.md)
 * [Mentoring](mentoring/README.md)
+  * [Mentoring Agreement](mentoring/mentoring-agreement.md)
   * [Junior-Developers](mentoring/junior-developers.md)
   * [Readme](mentoring/mentoring.md)
   * [Professional-Growth-Questionnaire](mentoring/professional-growth-questionnaire.md)
