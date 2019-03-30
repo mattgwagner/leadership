@@ -23,7 +23,7 @@
   * [Tech-Janitor](team-lead/tech-janitor.md)
   * [Breaking-the-Dependency](team-lead/breaking-the-dependency.md)
   * [Architecture-Decision-Record](team-lead/architecture-decision-record.md)
-  * [https://github.com/webflow/leadership/blob/master/tech\_lead.md](team-lead/what-is-a-tech-lead.md)
+  * [What is a Tech Lead?](team-lead/what-is-a-tech-lead.md)
   * [Discouraging-Feedback](team-lead/discouraging-feedback.md)
   * [Your-Tech-Stack](team-lead/your-tech-stack.md)
 * [Untitled](untitled.md)

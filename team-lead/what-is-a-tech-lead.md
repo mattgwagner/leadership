@@ -1,4 +1,6 @@
-# https://github.com/webflow/leadership/blob/master/tech\_lead.md
+# What is a Tech Lead?
+
+[https://github.com/webflow/leadership/blob/master/tech\_lead.md](https://github.com/webflow/leadership/blob/master/tech_lead.md)
 
 By its most basic definition, a Tech Lead is "solely accountable for a project's success, spending 30% of their time writing code, and the other 70% managing a project". The Lead is no misnomer — your purpose is to navigate a team of talented engineers through choppy waters, direct them, steer them away from hazards, clear obstacles, and to keep them well fed with meaningful work.
 
