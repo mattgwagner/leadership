@@ -1,0 +1,3 @@
+FromTheGreenNotebook
+
+Standardize only what is absolutely necessary. Think of it this way: each thing that you standardize across the entire unit or organization takes some measure of discretion and decision-making ability out of the hands of subordinate leaders. Some standardization is necessary and sensible. However, most things do not need to be dictated from higher headquarters. Be skeptical about giving directives to standardize. If you feel the need give such a directive, ensure that you fully understand the reasons for standardization – and, just as importantly, make certain that your subordinates understand those reasons. For everything else, clearly communicate an intent and leave the details of execution to subordinate leaders.
