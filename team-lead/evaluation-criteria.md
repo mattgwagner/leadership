@@ -7,3 +7,12 @@ General things that are important criteria for measuring in a software engineer:
 - Debugging and troubleshooting complicated issues - nothing works the first time, they need to be able to figure out why
 
 - Process improvements and thoughtfulness
+
+
+## Some Inspiration
+
+Square's Engineering Career Ladder
+
+https://docs.google.com/spreadsheets/d/12h50IYqd7fsO7tJ0l1OuHYbz5vN2d24a8EIDFhu2AZQ
+
+Can probably pull some specific bullets out of there for focus items.
