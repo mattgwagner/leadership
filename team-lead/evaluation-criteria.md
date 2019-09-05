@@ -9,6 +9,9 @@ General things that are important criteria for measuring in a software engineer:
 - Process improvements and thoughtfulness
 
 
+Is this person receptive to feedback?
+
+
 ## Some Inspiration
 
 Square's Engineering Career Ladder
