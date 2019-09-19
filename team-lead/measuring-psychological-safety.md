@@ -1,7 +1,5 @@
 https://medium.com/@mcleanonline/measuring-psychological-safety-81dd1da91915
 
-Questions
-
 I asked team members how strongly they agreed or disagreed with these statements:
 
 If I make a mistake in this team, it is held against me.
