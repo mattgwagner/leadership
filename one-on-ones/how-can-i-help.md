@@ -1,4 +1,4 @@
-Source: https://knowyourteam.com/blog/2019/10/10/the-5-mistakes-youre-making-in-your-one-on-one-meetings-with-direct-reports/?utm_source=kytnewsletter&utm_medium=email&__s=mbfgoiunobkgh5yzesin
+Source: https://knowyourteam.com/blog/2019/10/10/the-5-mistakes-youre-making-in-your-one-on-one-meetings-with-direct-reports
 
 You might be thinking, “Wait a minute, Claire. I ask this question, ‘How can I help you?’ all the time. How is this possibly a bad question to ask?” Well, it is for several reasons. And trust me, I’m guilty of asking this question as much as you are. Learning how counterproductive this question is surprised me as well.
 
