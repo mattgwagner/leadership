@@ -1,6 +1,6 @@
 https://knowyourteam.com/blog/2019/06/27/what-to-put-on-your-team-meeting-agenda/
 
-**** VISION
+VISION
 
 MISSION
 
