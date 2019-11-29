@@ -1,0 +1,12 @@
+# [Heroes and Juniors: Increasing Engineering Team Velocity](https://medium.com/@bellmar/heroes-and-juniors-increasing-engineering-team-velocity-97ce6a59103e)
+
+> Only we didn’t have a more junior person on the team because it was not that organization’s policy to hire junior people. Leadership felt more senior people would get more done and therefore why waste headcount on junior people?
+
+This had a couple of strange effects on the org. First it meant we had a group of perfectly competent mid-career software engineers whose growth we were stunting because we insisted on calling them senior engineers when they weren’t. That put them under incredible pressure to perform and also made it impossible to hold the actual senior engineers accountable because to hold them accountable would mean judging different groups of people with the same position on the career ladder by different standards. Either the mid-career engineers got thrown under the bus, or the senior people slacked off on their complete senior responsibilities… or both.
+
+> If one engineer monopolizes a whole work stream then no one else understands it, no one else can maintain it, and if the system is critical enough the engineer may be denied opportunities to do other things. The organization ends up with a knowledge transfer issue that stunts growth. 
+
+> As a person learns they take on new responsibilities, if they cannot transfer some of their knowledge to colleagues they also cannot transfer any of those responsibilities. As they take on additional responsibilities they are not being released from their old responsibilities. The team becomes more and more dependent on them, they have less and less time to devote to new learning. Eventually you either burn the person out or you force them to leave for a new organization in order to clear their responsibilities and focus on growth opportunities.
+
+> Look, no matter how brilliant they are or how thoroughly you screen for “culture fit” you can’t have a team full of tech leads. If you do nothing but hire senior engineers the only way to maximize the output of those engineers is to allow them to continue building new things. In any given software project there are different levels of tasks to be completed. Obviously in the beginning there’s a lot of architectural decisions to be made, a lot of unknowns, and a lot of requirements to be discovered, but as the project continues the team will start to pull off well-scoped items of work that need to be done in order for things to continue.
+
