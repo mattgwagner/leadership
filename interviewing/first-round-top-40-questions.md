@@ -11,3 +11,9 @@ https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-s
 - How did you prepare for this interview?
 
 - Tell me about your ideal next role. What characteristics does it have from a responsibility, team, and company culture perspective? What characteristics does it not have?
+
+- What's one part of your previous company's culture that you hope to bring to your next one? What one part do you hope to not find?
+
+- What can I tell you about working here?
+
+- What have I not asked you that I should have?
