@@ -1,0 +1,1 @@
+Andy Grove, founder and CEO of Intel and a legendary manager of his time, wrote that when it comes to evaluations, one should look at “the output of the work unit and not simply the activity involved. Obviously, you measure a salesman by the orders he gets (output), not by the calls he makes (activity).” (Location 295)
