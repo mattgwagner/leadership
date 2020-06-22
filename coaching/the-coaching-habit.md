@@ -13,3 +13,5 @@ The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever by Mich
     How will we win?
     What capabilities must be in place?
     What management systems are required?
+
+When people start talking to you about the challenge at hand, what’s essential to remember is that what they’re laying out for you is rarely the actual problem. And when you start jumping in to fix things, things go off the rails in three ways: you work on the wrong problem; you do the work your team should be doing; and the work doesn’t get done. (Location 617)
