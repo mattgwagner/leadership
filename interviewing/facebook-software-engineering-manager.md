@@ -39,3 +39,18 @@ Example questions will be similar to the following:
 * How did you test performance and scalability?
 * Did you have to iterate on the design?
 * Looking back, what would you have done differently?
+
+# Career conversation / motivations
+
+How to prep for this section of your interview
+
+This part of the discussion will focus on your background, your career goals, and how Facebook
+might fit into that plan. This is also an opportunity for you to learn more about what it’s like to
+be an engineering leader at Facebook and the specific leadership opportunities that we
+currently have.
+
+Example questions will be similar to the following:
+* Why are you potentially interested in Facebook?
+* What gets you excited?
+* How do you plan on choosing your next role?
+* What’s the biggest thing you want to learn?
